@@ -1,0 +1,1675 @@
+{
+  "jobs": [
+    {
+      "id": "mvyjljru601e",
+      "name": "Schmied",
+      "ort": "Armadillo",
+      "chef": ""
+    },
+    {
+      "id": "mvyjueb9zv7o",
+      "name": "Büchsenmacher",
+      "ort": "Armadillo",
+      "chef": ""
+    },
+    {
+      "id": "mvyjzg5040pm",
+      "name": "Schreiner",
+      "ort": "Armadillo",
+      "chef": ""
+    },
+    {
+      "id": "mw2bsdmetdt7",
+      "name": "NPC",
+      "ort": "...",
+      "chef": "...."
+    }
+  ],
+  "zutaten": [
+    {
+      "id": "mvyjmac5pou8",
+      "name": "Eisenerz",
+      "job": "mvyjljru601e",
+      "ek": 0.04,
+      "vk": null,
+      "notizen": "..."
+    },
+    {
+      "id": "mvyjmo8gt5py",
+      "name": "Kohle",
+      "job": "mvyjljru601e",
+      "ek": 0.04,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvyjzvqhthrd",
+      "name": "Zinkerz",
+      "job": "mvyjljru601e",
+      "ek": 0.05,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvyk0dqmkel8",
+      "name": "Kupfererz",
+      "job": "mvyjljru601e",
+      "ek": 0.05,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvyk0zh4r66l",
+      "name": "Stahlbarren",
+      "job": "mvyjljru601e",
+      "ek": 0.3,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvyk1s3rt35d",
+      "name": "Kupferbarren",
+      "job": "mvyjljru601e",
+      "ek": 0.16,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvyk3d9f3h4v",
+      "name": "Eisenbarren",
+      "job": "mvyjljru601e",
+      "ek": 0.12,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvyk3p4kidos",
+      "name": "Zinkbarren",
+      "job": "mvyjljru601e",
+      "ek": 0.14,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvz44ykkjmau",
+      "name": "Messingbarren",
+      "job": "mvyjljru601e",
+      "ek": 0.32,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvz46nfpzvy8",
+      "name": "Stein",
+      "job": "mvyjljru601e",
+      "ek": 0.02,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvz4bpp0m0qd",
+      "name": "Langwaffen Gussform",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvz4da1j9f7x",
+      "name": "Kurzwaffen Gussform",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvz4erbazlkf",
+      "name": "Griff",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mvz4gxav5lpl",
+      "name": "Schwefel",
+      "job": "mvyjueb9zv7o",
+      "ek": 0.05,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwpgt7d8ywb4",
+      "name": "Waffenlauf",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw1kn7jfb057",
+      "name": "Kurzwaffengehäuse",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwn3yb8if7el",
+      "name": "Schlagbolzen",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwqtkmvtpyp8",
+      "name": "Revolvergriff",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwm8b23kyzsq",
+      "name": "Revolver Lizenz",
+      "job": "mw2bsdmetdt7",
+      "ek": 2.5,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwpbzbuj67s7",
+      "name": "Pistolengriff",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw8bna0zn27y",
+      "name": "Pistolen Lizenz",
+      "job": "mw2bsdmetdt7",
+      "ek": 3,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwwu3pobj98m",
+      "name": "Langwaffengehäuse",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw9dperxvr63",
+      "name": "Schrotflintenschaft",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwlxwhcty7me",
+      "name": "Flinten Lizenz",
+      "job": "mw2bsdmetdt7",
+      "ek": 5,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwvbwewygo73",
+      "name": "Repetierer Schaft",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw4wk7kji7op",
+      "name": "Repeater Lizenz",
+      "job": "mw2bsdmetdt7",
+      "ek": 8,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwq9deawzidq",
+      "name": "Gewehrschaft",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwfk9579mmrb",
+      "name": "Gewehr Lizenz",
+      "job": "mw2bsdmetdt7",
+      "ek": 12,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwwfe0edpt1e",
+      "name": "Elefantengewehr Lizenz",
+      "job": "mw2bsdmetdt7",
+      "ek": 20,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw4invlumw13",
+      "name": "Seil",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwo7jq9g323i",
+      "name": "Linse",
+      "job": "",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw5aqdexp320",
+      "name": "Baumwolle",
+      "job": "",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwyeprqtp5wo",
+      "name": "Tieröl",
+      "job": "",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwllkv4scv5f",
+      "name": "Nitrit",
+      "job": "mvyjueb9zv7o",
+      "ek": 0.053333,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw6bg2ydmav0",
+      "name": "Schwarzpulver",
+      "job": "mvyjueb9zv7o",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mwbsj999gs3h",
+      "name": "Patronenhülsenbox",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mxxw1acllph2",
+      "name": "Holzstamm",
+      "job": "mvyjzg5040pm",
+      "ek": 0.046667,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mx69699o5qyd",
+      "name": "Zweige",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mx2k1d7xa4ll",
+      "name": "Holzstange",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mxnae5c2y09x",
+      "name": "Nägel",
+      "job": "mvyjljru601e",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mxda847qqh2o",
+      "name": "Rinde",
+      "job": "mvyjzg5040pm",
+      "ek": 0.026667,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mx7fpcoqhsdo",
+      "name": "Fasern",
+      "job": "mvyjzg5040pm",
+      "ek": 0.036667,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mxstlpv5o5sj",
+      "name": "Holzbrett",
+      "job": "mvyjzg5040pm",
+      "ek": null,
+      "vk": null,
+      "notizen": ""
+    },
+    {
+      "id": "mw0itoxokn11",
+      "name": "Goldnugget",
+      "job": "mvyjljru601e",
+      "ek": 0.333333,
+      "vk": null,
+      "notizen": ""
+    }
+  ],
+  "rezepte": [
+    {
+      "id": "mvyjmxokz86q",
+      "name": "Eisenbarren",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.333333,
+      "zutaten": [
+        {
+          "zutat": "mvyjmac5pou8",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyjmo8gt5py",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvyk4rdcktq1",
+      "name": "Kupferbarren",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.333333,
+      "zutaten": [
+        {
+          "zutat": "mvyjmo8gt5py",
+          "menge": 1
+        },
+        {
+          "zutat": "mvyk0dqmkel8",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz3yovt0dq2",
+      "name": "Zinkbarren",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.473333,
+      "zutaten": [
+        {
+          "zutat": "mvyjzvqhthrd",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyjmo8gt5py",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4167ogeuc",
+      "name": "Stahlbarren",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.966667,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 1
+        },
+        {
+          "zutat": "mvyjmo8gt5py",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyjzvqhthrd",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz42ndulqza",
+      "name": "Messingbarren",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 1.026667,
+      "zutaten": [
+        {
+          "zutat": "mvyk3p4kidos",
+          "menge": 1
+        },
+        {
+          "zutat": "mvyk1s3rt35d",
+          "menge": 1
+        },
+        {
+          "zutat": "mvyjmo8gt5py",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz442av8dxd",
+      "name": "Nägel",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.2,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz456h578co",
+      "name": "Patronenhülsenbox",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.833333,
+      "zutaten": [
+        {
+          "zutat": "mvz44ykkjmau",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz46yhscuq2",
+      "name": "Gold Schmelze",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 3.333333,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 5
+        },
+        {
+          "zutat": "mvz46nfpzvy8",
+          "menge": 5
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz47tg67kkz",
+      "name": "Angelhacken",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.333333,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz48sep2id5",
+      "name": "Kurzwaffen Gussform",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.666667,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz497d8j2ey",
+      "name": "Langwaffen Gussform",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.833333,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz49kj7semk",
+      "name": "Waffenlauf",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.733333,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4ae46snd8",
+      "name": "Kurzwaffengehäuse",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 1.333333,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 2
+        },
+        {
+          "zutat": "mvz4da1j9f7x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4c95p246d",
+      "name": "Langwaffengehäuse",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 3.333333,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 4
+        },
+        {
+          "zutat": "mvz4bpp0m0qd",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4ck6cox6q",
+      "name": "Schlagbolzen",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.633333,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4f581xmy5",
+      "name": "Verbesserte Axt",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 2.333333,
+      "zutaten": [
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4fs86i776",
+      "name": "Verbesserte Spitzhacke",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 2.333333,
+      "zutaten": [
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4g8pikw8t",
+      "name": "Smoker",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 2.04,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 2
+        },
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4ha3z2j36",
+      "name": "Schwefelpulver",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 0.066667,
+      "zutaten": [
+        {
+          "zutat": "mvz4gxav5lpl",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4i13tpa89",
+      "name": "Schaufel",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 1.766667,
+      "zutaten": [
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 1
+        },
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mvz4ik2t7ugg",
+      "name": "Messer",
+      "job": "mvyjljru601e",
+      "menge": 1,
+      "vk": 1.92,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 1
+        },
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwgcl6qkb2bt",
+      "name": "Cattleman Revolver",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 1
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwqtkmvtpyp8",
+          "menge": 2
+        },
+        {
+          "zutat": "mwm8b23kyzsq",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw1j1z5o3q93",
+      "name": "Lemat Revolver",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 2
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwqtkmvtpyp8",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw4obexwvm9n",
+      "name": "Double Action Revolver",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 1
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwqtkmvtpyp8",
+          "menge": 2
+        },
+        {
+          "zutat": "mwm8b23kyzsq",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwghcxw8l344",
+      "name": "Navy Revolver",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 2
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwqtkmvtpyp8",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwwfpn5me54g",
+      "name": "Schofield",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwqtkmvtpyp8",
+          "menge": 2
+        },
+        {
+          "zutat": "mwm8b23kyzsq",
+          "menge": 1
+        },
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwfq76wiu0rw",
+      "name": "Mauser Pistole",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 2
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwpbzbuj67s7",
+          "menge": 2
+        },
+        {
+          "zutat": "mw8bna0zn27y",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwrf3bb5dj8y",
+      "name": "Volcanic Pistole",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 3
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 2
+        },
+        {
+          "zutat": "mwpbzbuj67s7",
+          "menge": 2
+        },
+        {
+          "zutat": "mw8bna0zn27y",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw0ra428qdad",
+      "name": "Semi Automatisch Pistole",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 1
+        },
+        {
+          "zutat": "mwpbzbuj67s7",
+          "menge": 2
+        },
+        {
+          "zutat": "mw8bna0zn27y",
+          "menge": 1
+        },
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 2
+        },
+        {
+          "zutat": "mw1kn7jfb057",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwrodcsphnrq",
+      "name": "Doppelläufige Schrotflinte",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 3
+        },
+        {
+          "zutat": "mw9dperxvr63",
+          "menge": 2
+        },
+        {
+          "zutat": "mwlxwhcty7me",
+          "menge": 1
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        },
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwmlibi9szyk",
+      "name": "Semi Auto Schrotflinte",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        },
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 3
+        },
+        {
+          "zutat": "mw9dperxvr63",
+          "menge": 2
+        },
+        {
+          "zutat": "mwlxwhcty7me",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwfa743gj80q",
+      "name": "Repeating Schrotflinte",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 3
+        },
+        {
+          "zutat": "mw9dperxvr63",
+          "menge": 2
+        },
+        {
+          "zutat": "mwlxwhcty7me",
+          "menge": 1
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        },
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw50igxs128m",
+      "name": "Pump Action",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        },
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 3
+        },
+        {
+          "zutat": "mw9dperxvr63",
+          "menge": 2
+        },
+        {
+          "zutat": "mwlxwhcty7me",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwurv5h6nmhu",
+      "name": "Carbine Repeater",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        },
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 2
+        },
+        {
+          "zutat": "mwvbwewygo73",
+          "menge": 2
+        },
+        {
+          "zutat": "mw4wk7kji7op",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwd00k5iganl",
+      "name": "Winchester Repeater",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 2
+        },
+        {
+          "zutat": "mwvbwewygo73",
+          "menge": 2
+        },
+        {
+          "zutat": "mw4wk7kji7op",
+          "menge": 1
+        },
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw9vvfsg8bfs",
+      "name": "Henry Repeater",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 3
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 3
+        },
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 2
+        },
+        {
+          "zutat": "mwvbwewygo73",
+          "menge": 2
+        },
+        {
+          "zutat": "mw4wk7kji7op",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwo9xabncyo4",
+      "name": "Bolt Action Gewehr",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 3
+        },
+        {
+          "zutat": "mwq9deawzidq",
+          "menge": 2
+        },
+        {
+          "zutat": "mwfk9579mmrb",
+          "menge": 1
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 4
+        },
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 4
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwzj0fi34mho",
+      "name": "Elephant Gewehr",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 4
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 4
+        },
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 4
+        },
+        {
+          "zutat": "mwq9deawzidq",
+          "menge": 2
+        },
+        {
+          "zutat": "mwwfe0edpt1e",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw9ptk8em90o",
+      "name": "Springfield Gewehr",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwpgt7d8ywb4",
+          "menge": 4
+        },
+        {
+          "zutat": "mwn3yb8if7el",
+          "menge": 4
+        },
+        {
+          "zutat": "mwwu3pobj98m",
+          "menge": 3
+        },
+        {
+          "zutat": "mwq9deawzidq",
+          "menge": 2
+        },
+        {
+          "zutat": "mwfk9579mmrb",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwfsdnf45fhu",
+      "name": "Lasso",
+      "job": "",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mw4invlumw13",
+          "menge": 3
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwh4sbpboa6y",
+      "name": "Fernglas",
+      "job": "",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 3
+        },
+        {
+          "zutat": "mvyk1s3rt35d",
+          "menge": 2
+        },
+        {
+          "zutat": "mwo7jq9g323i",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mw5oogcko7kd",
+      "name": "Machete",
+      "job": "",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mvyk3d9f3h4v",
+          "menge": 4
+        },
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwmebhko6sai",
+      "name": "Waffen Tuch",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mw5aqdexp320",
+          "menge": 5
+        },
+        {
+          "zutat": "mwyeprqtp5wo",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwvaxsny32ue",
+      "name": "Schwarzpulver",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mwllkv4scv5f",
+          "menge": 2
+        },
+        {
+          "zutat": "mvz4gxav5lpl",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mwtd4jj4ed2b",
+      "name": "Munitionsbox",
+      "job": "mvyjueb9zv7o",
+      "menge": 1,
+      "vk": 0.9,
+      "zutaten": [
+        {
+          "zutat": "mw6bg2ydmav0",
+          "menge": 1
+        },
+        {
+          "zutat": "mwbsj999gs3h",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mx97i9w6q9sj",
+      "name": "Holzbrett",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mxxw1acllph2",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxp5worv2owa",
+      "name": "Zweige",
+      "job": "mvyjzg5040pm",
+      "menge": 2,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mxxw1acllph2",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxl5viripd1q",
+      "name": "Holzstange",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.2,
+      "zutaten": [
+        {
+          "zutat": "mx69699o5qyd",
+          "menge": 4
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mx9b4aqnuygi",
+      "name": "Griff",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mx2k1d7xa4ll",
+          "menge": 3
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxthev6xmy1v",
+      "name": "Zigarettenpapiere",
+      "job": "mvyjzg5040pm",
+      "menge": 10,
+      "vk": 0.333333,
+      "zutaten": [
+        {
+          "zutat": "mxda847qqh2o",
+          "menge": 5
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxxothg1g6sh",
+      "name": "Leere Zeitung",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.333333,
+      "zutaten": [
+        {
+          "zutat": "mxda847qqh2o",
+          "menge": 5
+        },
+        {
+          "zutat": "mx7fpcoqhsdo",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxnvo2u4v8sw",
+      "name": "Holzfass",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 1.066667,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 6
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxmnxaytz5n1",
+      "name": "Leeres Bourbonfass",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 1,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 6
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxmhrj6guwyi",
+      "name": "Seil",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.55,
+      "zutaten": [
+        {
+          "zutat": "mx7fpcoqhsdo",
+          "menge": 10
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxq30f264l6j",
+      "name": "Bienenstock",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 2.5,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 10
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 2
+        },
+        {
+          "zutat": "mxxw1acllph2",
+          "menge": 5
+        },
+        {
+          "zutat": "mxda847qqh2o",
+          "menge": 5
+        },
+        {
+          "zutat": "mx7fpcoqhsdo",
+          "menge": 2
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxdv1lxz2jfi",
+      "name": "Schrotflintenschaft",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.613333,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 4
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxfy0jcpj16x",
+      "name": "Repetierer Schaft",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.533333,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 4
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxllf679bwj7",
+      "name": "Pistolengriff",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.366667,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 2
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mxqhrsudapl4",
+      "name": "Revolvergriff",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 0.4,
+      "zutaten": [
+        {
+          "zutat": "mxstlpv5o5sj",
+          "menge": 2
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mx0ai9zf4cgh",
+      "name": "Verbesserte Axt (Schreiner)",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": 1.833333,
+      "zutaten": [
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 3
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    },
+    {
+      "id": "mx0wksx2gjvy",
+      "name": "Verbesserte Spitzhacke (Schreiner)",
+      "job": "mvyjzg5040pm",
+      "menge": 1,
+      "vk": null,
+      "zutaten": [
+        {
+          "zutat": "mvz4erbazlkf",
+          "menge": 2
+        },
+        {
+          "zutat": "mvyk0zh4r66l",
+          "menge": 3
+        },
+        {
+          "zutat": "mxnae5c2y09x",
+          "menge": 1
+        }
+      ],
+      "notizen": ""
+    }
+  ],
+  "settings": {
+    "waehrung": "PESO",
+    "kurs": 3,
+    "webhook": ""
+  }
+}
