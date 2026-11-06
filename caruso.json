@@ -318,7 +318,7 @@
       "id": "mxxw1acllph2",
       "name": "Holzstamm",
       "job": "mvyjzg5040pm",
-      "ek": 0.046667,
+      "ek": 0.1,
       "vk": null,
       "notizen": ""
     },
@@ -326,7 +326,7 @@
       "id": "mx69699o5qyd",
       "name": "Zweige",
       "job": "mvyjzg5040pm",
-      "ek": null,
+      "ek": 0.03,
       "vk": null,
       "notizen": ""
     },
@@ -350,7 +350,7 @@
       "id": "mxda847qqh2o",
       "name": "Rinde",
       "job": "mvyjzg5040pm",
-      "ek": 0.026667,
+      "ek": 0.06,
       "vk": null,
       "notizen": ""
     },
@@ -358,7 +358,7 @@
       "id": "mx7fpcoqhsdo",
       "name": "Fasern",
       "job": "mvyjzg5040pm",
-      "ek": 0.036667,
+      "ek": 0.08,
       "vk": null,
       "notizen": ""
     },
